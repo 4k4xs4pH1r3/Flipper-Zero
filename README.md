@@ -4,7 +4,7 @@
 It loves hacking digital stuff, such as radio protocols, access control systems, hardware and more. It's fully open-source and customizable, so you can extend it in whatever way you like.
 
 ### Support the Comunnity in Patreon!
-[Flipper Zero Korai Firmware ZeusRicote creator and addons builder](Patreon.com/zeusricote)
+[Korai Firmware ZeusRicote creator and addons builder](Patreon.com/zeusricote)
 
 ### How to Buy ?
 
