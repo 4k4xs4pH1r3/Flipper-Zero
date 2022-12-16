@@ -1,4 +1,5 @@
 #  Flipper Zero 
+[![https://flipperzero.one/](https://static.tildacdn.com/tild3535-6231-4631-a333-366262346330/anim.gif)](https://flipperzero.one/)
 ## Multi-tool Device for Geeks
 
 ### How to Buy ?
