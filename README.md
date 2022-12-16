@@ -2,7 +2,7 @@
 
 ## How to Buy ?
 
-[Zeus Ricote](https://zeusricote.com)\
+[Zeus Ricote](https://zeusricote.com)
 
 
 ## Groups
@@ -39,7 +39,7 @@
 [Nicola Selenu](https://discord.gg/FkEVbkhX)\
 [Bork-electronics](https://discord.gg/YpQnbmh6)\
 [Flipper Zero Unofficial](https://discord.unleashedflip.com)\
-[Flipper Devices](https://flipperzero.one/discord)\
+[Flipper Devices](https://flipperzero.one/discord)
 
 
 
@@ -53,5 +53,5 @@
 [FlipperZeroBR1](https://t.me/FlipperZeroBR1)\
 [flipperzero_aus](https://t.me/flipperzero_aus)\
 [flipperzero00](https://t.me/flipperzero00)\
-[flipperzero11](https://t.me/flipperzero11)\
+[flipperzero11](https://t.me/flipperzero11)
 
