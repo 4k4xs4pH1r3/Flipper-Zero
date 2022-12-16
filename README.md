@@ -57,6 +57,10 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 [Bork-electronics](https://discord.gg/AVAeRuQTN2)\
 [Flipper Zero Unofficial](https://discord.unleashedflip.com)\
 [Flipper Devices](https://flipperzero.one/discord)
+[esp_es](https://t.me/esp_es)
+
+
+
 
 
 
