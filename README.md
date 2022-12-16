@@ -1,6 +1,7 @@
-#  Let's add value 
+#  Flipper Zero 
+## Multi-tool Device for Geeks
 
-## How to Buy ?
+### How to Buy ?
 
 [Flipper Zero Shop](https://shop.flipperzero.one/)\
 [Zeus Ricote](https://zeusricote.com)\
@@ -10,16 +11,16 @@
 [Amazon](https://www.amazon.com/s?k=Flipper-Zero)\
 [aliexpress](https://www.aliexpress.com/w/wholesale-flipper-zero-original.html?catId=0&initiative_id=AS_20221216022722&SearchText=flipper%2Bzero%2Boriginal&spm=a2g0o.productlist.1000002.0&dida=y)
 
-## Management
+### Management
 
 [My Flipper](https://lab.flipper.net/)
 
-## Repos & Firmware
+### Repos & Firmware
 [New Firmware Update System](https://blog.flipperzero.one/new-firmware-update-system/)\
 [Korai](https://github.com/ankris812/Korai)\
 [DrB0rk](https://github.com/DrB0rk/Flipper-Zero-Boards)
 
-## Groups
+### Groups
 
 [Flipper Forum](https://t.me/+2WVEOUkJ4Ho4ZDFi)\
 [flipper_zero_french](https://t.me/flipper_zero_french)\
@@ -57,7 +58,7 @@
 
 
 
-## Channels 
+### Channels 
 
 [FlipperNews](https://t.me/FlipperNews)\
 [kotnehle](https://t.me/kotnehleb)\
