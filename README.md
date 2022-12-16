@@ -18,7 +18,7 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 
 ### Management
 
-[My Flipper](https://lab.flipper.net/)
+[My Flipper](https://lab.flipper.net/)\
 [qFlipper](https://flipperzero.one/update)
 
 ### Repos & Firmware
