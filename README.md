@@ -38,7 +38,7 @@ https://discord.gg/YpQnbmh6
 https://discord.gg/w3ZQRB87
 https://discord.unleashedflip.com
 https://discord.gg/flipper
-http://flipperzero.one/discord 
+https://flipperzero.one/discord 
 
 
 Channels 
