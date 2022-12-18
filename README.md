@@ -44,7 +44,6 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 [FlipperZeroUnofficialGermany](https://t.me/FlipperZeroUnofficialGermany)\
 [flipperzero_unofficial](https://t.me/flipperzero_unofficial)\
 [flippermarket](https://t.me/flippermarket)\
-[flipper_wtf](https://t.me/flipper_wtf)\
 [flipper_rfid](https://t.me/flipper_rfid)\
 [flipperzeroNL](https://t.me/flipperzeroNL)\
 [FlipperForum](https://t.me/FlipperForum)\
@@ -63,7 +62,6 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 [Flipper Devices](https://flipperzero.one/)\
 [hto_yak](https://t.me/hto_yak)\
 [esp_es](https://t.me/esp_es)
-
 
 
 
