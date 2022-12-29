@@ -10,7 +10,7 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 
 [Flipper Zero Shop](https://shop.flipperzero.one/)\
 [Zeus Ricote](https://zeusricote.com)\
-[Joom](https://www.joom.com/en/search/f.brand.tree.631727d3aaa834db2f503a5b)\
+[Joom](https://www.joom.com/en/stores/62f64f81a96fa268df9eaa2e)\
 [Lab 401](https://lab401.com/)\
 [borklab](https://www.borklab.com/)\
 [Amazon](https://www.amazon.com/s?k=Flipper-Zero)\
