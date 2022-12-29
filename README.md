@@ -4,7 +4,7 @@
 It loves hacking digital stuff, such as radio protocols, access control systems, hardware and more. It's fully open-source and customizable, so you can extend it in whatever way you like.
 
 ### Support the Comunnity in Patreon!
-[Korai Firmware ZeusRicote creator & addons builder](Patreon.com/zeusricote)
+[Korai Firmware ZeusRicote creator & addons builder](https://zeusricote.com/)
 
 ### How to Buy ?
 
