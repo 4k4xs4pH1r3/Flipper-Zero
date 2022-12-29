@@ -29,6 +29,7 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 ### Groups
 
 [Flipper Forum](https://t.me/+2WVEOUkJ4Ho4ZDFi)\
+[flipper_zero_spanish](https://t.me/flipper_zero_spanish)\
 [flipper_zero_french](https://t.me/flipper_zero_french)\
 [Flipper ITA](https://t.me/+4YM7QfxxnpEwYzEy)\
 [Flipper ESP](https://t.me/+VQUnlza-WbIxOThi)\
@@ -39,7 +40,6 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 [flipperzero_unofficial_ru](https://t.me/flipperzero_unofficial_ru)\
 [flipperzeroitalia](https://t.me/flipperzeroitalia)\
 [FlipperZeroFan](https://t.me/FlipperZeroFan)\
-[flipper_zero_spanish](https://t.me/flipper_zero_spanish)\
 [Korai Firmware](https://t.me/+XI3ZKU1-cYEwMTU0)\
 [FlipperZeroUnofficialGermany](https://t.me/FlipperZeroUnofficialGermany)\
 [flipperzero_unofficial](https://t.me/flipperzero_unofficial)\
