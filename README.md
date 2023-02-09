@@ -69,7 +69,7 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 
 ### Channels 
 
-[3d printing, soldering, coding and sometimes hacking hardware](https://t.me/containment)
+[3d printing, soldering, coding and sometimes hacking hardware](https://t.me/containment)\
 [FlipperNews](https://t.me/FlipperNews)\
 [kotnehle](https://t.me/kotnehleb)\
 [unleashed_fw](https://t.me/unleashed_fw)\
