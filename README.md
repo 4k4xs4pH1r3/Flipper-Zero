@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/89728480/226020699-edd873f8-3293-41f7-8a97-75da954a1573.png)
+
+
 #  Flipper Zero
 ## Is a portable multi-tool for pentesters and geeks in a toy-like body
 
@@ -9,22 +12,47 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 ### How to Buy ?
 
 [Flipper Zero Shop](https://shop.flipperzero.one/)\
-[Zeus Ricote](https://zeusricote.com)\
 [Joom](https://www.joom.com/en/stores/62f64f81a96fa268df9eaa2e)\
-[Lab 401](https://lab401.com/)\
-[borklab](https://www.borklab.com/)\
-[Amazon](https://www.amazon.com/s?k=Flipper-Zero)\
-[aliexpress](https://www.aliexpress.com/w/wholesale-flipper-zero-original.html?catId=0&initiative_id=AS_20221216022722&SearchText=flipper%2Bzero%2Boriginal&spm=a2g0o.productlist.1000002.0&dida=y)
+[Lab 401](https://lab401.com/)
+
 
 ### Management
 
 [My Flipper](https://lab.flipper.net/)\
 [qFlipper](https://flipperzero.one/update)
 
-### Repos & Firmware
+### Firmwares
 [New Firmware Update System](https://blog.flipperzero.one/new-firmware-update-system/)\
 [Korai](https://github.com/ankris812/Korai)\
-[DrB0rk](https://github.com/DrB0rk/Flipper-Zero-Boards)
+[Unleashed](https://github.com/DarkFlippers/unleashed-firmware)\
+[RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)\
+[Xtreme](https://github.com/ClaraCrazy/Flipper-Xtreme)\
+[Dexvmaster0](https://github.com/DXVVAY/Dexvmaster0)\
+[v1nc](https://github.com/v1nc/flipperzero-firmware)\
+[Wetox=](https://github.com/wetox-team/flipperzero-firmware)\
+[Muddled](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)\
+[OpenHaystack BLE mod](https://github.com/AlexStrNik/flipperzero-firmware)
+
+
+### Repos 
+[awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero)\
+[DrB0rk](https://github.com/DrB0rk/Flipper-Zero-Boards)\
+[UberGuidoZ Playground](https://github.com/UberGuidoZ/Flipper)\
+[Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB)\
+[FlipperZero-TouchTunes](https://github.com/jimilinuxguy/flipperzero-touchtunes)\
+[Flipper Maker](https://flippermaker.github.io/)\
+[FlipperAmiibo](https://github.com/Gioman101/FlipperAmiibo)\
+[FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL)\
+[flipper-music-files](https://github.com/Tonsil/flipper-music-files)\
+[Generic BadUSB Payloads](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads)\
+[Flipper BadUSB Payloads](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)\
+[FlipperZero-Goodies](https://github.com/wetox-team/flipperzero-goodies)\
+[T119 bruteforcer](https://github.com/xb8/t119bruteforcer)\
+[flipperzero-bruteforce](https://github.com/tobiabocchi/flipperzero-bruteforce)\
+[UNC0V3R3D BadUSB collection](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)\
+[Flipper-StarNew](https://github.com/GlUTEN-BASH/Flipper-Starnew)\
+[FalsePhilosophers Flipper BadUSB](https://github.com/FalsePhilosopher/badusb)\
+[SerialHex2FlipperZeroInfrared](https://github.com/maehw/SerialHex2FlipperZeroInfrared)
 
 ### Groups
 
@@ -79,5 +107,3 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 [flipperzero_aus](https://t.me/flipperzero_aus)\
 [flipperzero00](https://t.me/flipperzero00)\
 [flipperzero11](https://t.me/flipperzero11)
-
-[![https://flipperzero.one/](https://static.tildacdn.com/tild3535-6231-4631-a333-366262346330/anim.gif)](https://flipperzero.one/)
