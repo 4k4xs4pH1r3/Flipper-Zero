@@ -1,0 +1,6 @@
+{
+  "appid": "tmpc",
+  "name": "Temperature Monitor",
+  "version": "1.0.0",
+  "description": "A simple FAP that monitors the temperature of the Flipper Zero."
+}
