@@ -31,7 +31,7 @@ wget https://raw.githubusercontent.com/4k4xs4pH1r3/Flipper-Zero/main/temperature
 6. Run the following command to compile the FAP:
 
 ```
-cd .. && fbt build mtpc
+cd .. && ./fbt build mtpc
 ```
 
 This will compile the `temperature_monitor.py` script into a FAP that can be flashed to the Flipper ZeZero.Here are some additional notes:
