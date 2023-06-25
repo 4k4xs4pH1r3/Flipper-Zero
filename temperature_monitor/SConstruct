@@ -1,0 +1,4 @@
+env = Environment()
+env.Append(CPPPATH=['/opt/flipperzero-firmware'])  # Replace with the actual path to flipper.h
+
+env.Program(target='mtpc_app', source='main.c', LIBS=['flipper'])

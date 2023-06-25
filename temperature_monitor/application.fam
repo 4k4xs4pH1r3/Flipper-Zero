@@ -1,0 +1,11 @@
+App(
+    appid="mtpc",
+    name="mtpc",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="mtpc_app",
+    requires=["gui"],
+    stack_size=1 * 1024,
+    order=30,
+    fap_icon="mtpc_10px.png",
+    fap_category="USB",
+)
