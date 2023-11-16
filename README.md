@@ -11,7 +11,9 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 
 [Flipper Zero Shop](https://shop.flipperzero.one/)\
 [Joom](https://www.joom.com/en/stores/62f64f81a96fa268df9eaa2e)\
-[Lab 401](https://lab401.com/)
+[Lab 401](https://lab401.com/)\
+[just.call.me.koko_Tindie](https://www.tindie.com/stores/justcallmekoko/)\
+[just.call.me.koko_New Shop](https://justcallmekokollc.com/)
 
 
 ### Management
