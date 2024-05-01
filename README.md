@@ -1,11 +1,10 @@
 ![image](https://user-images.githubusercontent.com/89728480/226020699-edd873f8-3293-41f7-8a97-75da954a1573.png)
 
+# Flipper Zero
 
-#  Flipper Zero
 ## Is a portable multi-tool for pentesters and geeks in a toy-like body
 
 It loves hacking digital stuff, such as radio protocols, access control systems, hardware and more. It's fully open-source and customizable, so you can extend it in whatever way you like.
-
 
 ### How to Buy ?
 
@@ -15,13 +14,13 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 [just.call.me.koko_Tindie](https://www.tindie.com/stores/justcallmekoko/)\
 [just.call.me.koko_New Shop](https://justcallmekokollc.com/)
 
-
 ### Management
 
 [My Flipper](https://lab.flipper.net/)\
 [qFlipper](https://flipperzero.one/update)
 
 ### Firmwares
+
 [New Firmware Update System](https://blog.flipperzero.one/new-firmware-update-system/)\
 [Korai](https://github.com/ankris812/Korai)\
 [Unleashed](https://github.com/DarkFlippers/unleashed-firmware)\
@@ -33,8 +32,8 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 [Muddled](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)\
 [OpenHaystack BLE mod](https://github.com/AlexStrNik/flipperzero-firmware)
 
+### Repos
 
-### Repos 
 [awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero)\
 [DrB0rk](https://github.com/DrB0rk/Flipper-Zero-Boards)\
 [UberGuidoZ Playground](https://github.com/UberGuidoZ/Flipper)\
@@ -91,11 +90,7 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 [hto_yak](https://t.me/hto_yak)\
 [esp_es](https://t.me/esp_es)
 
-
-
-
-
-### Channels 
+### Channels
 
 [3d printing, soldering, coding and sometimes hacking hardware](https://t.me/containment)\
 [FlipperNews](https://t.me/FlipperNews)\
