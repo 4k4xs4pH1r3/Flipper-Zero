@@ -1,12 +1,12 @@
 syntax_version: "2021-08-02"
 meta:
   labels:
-  - "cleanthat"
+    - "cleanthat"
   refs:
     branches:
-    - "refs/heads/develop"
-    - "refs/heads/main"
-    - "refs/heads/master"
+      - "refs/heads/develop"
+      - "refs/heads/main"
+      - "refs/heads/master"
 source_code:
   excludes: []
   includes: []
