@@ -2,11 +2,11 @@
 
 # Flipper Zero
 
-## Is a portable multi-tool for pentesters and geeks in a toy-like body
+## Is a portable multi-tool for pen-testers and geeks in a toy-like body
 
-It loves hacking digital stuff, such as radio protocols, access control systems, hardware and more. It's fully open-source and customizable, so you can extend it in whatever way you like.
+It loves hacking digital stuff like radio protocols, access control systems, and hardware. It's fully open-source and customizable, you can extend it.
 
-### How to Buy ?
+### How to Buy?
 
 [Flipper Zero Shop](https://shop.flipperzero.one/)\
 [Joom](https://www.joom.com/en/stores/62f64f81a96fa268df9eaa2e)\
@@ -22,7 +22,8 @@ It loves hacking digital stuff, such as radio protocols, access control systems,
 ### Firmwares
 
 [New Firmware Update System](https://blog.flipperzero.one/new-firmware-update-system/)\
-[Korai](https://github.com/ankris812/Korai)\
+[Korai](https://github.com/Korai-Labs/Korai)\
+[Momentum](https://momentum-fw.dev/)\
 [Unleashed](https://github.com/DarkFlippers/unleashed-firmware)\
 [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)\
 [Xtreme](https://github.com/ClaraCrazy/Flipper-Xtreme)\
