@@ -1,0 +1,31 @@
+name: Auto Update and Merge
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Run every 5 minutes
+  pull_request_target:
+    types: [assigned, unassigned, labeled, unlabeled, opened, edited, reopened, synchronize, ready_for_review, locked, unlocked, review_requested, review_request_removed, auto_merge_enabled, auto_merge_disabled]
+    branches:
+      - main  # Replace 'target-branch' with your actual branch name      
+
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4.1.7
+        with:
+          fetch-depth: 0  # Fetch all history for merging
+          ref: ${{ github.event.pull_request.head.ref }} # Checkout the PR's branch
+
+      - name: Merge PR into main
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git checkout main 
+          git pull origin main  # Ensure main is up-to-date
+          git merge ${{ github.event.pull_request.head.ref }} --no-ff # Merge the PR's branch
+
+      - name: Push changes
+        run: git push origin main
